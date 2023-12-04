@@ -1,5 +1,5 @@
 {% set name = "napari-indices" %}
-{% set version = "0.0.1" %}
+{% set version = "0.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-indices-{{ version }}.tar.gz
-  sha256: 9a8e701c727b224884a1503753cce4a7dd9429bbd99e6b08e53bca2e803bb35b
+  sha256: 6bec2a6389b97036318b1a43803e552081913f3062f29453ae518370dde0d557
   patches:
     - qtpy.patch
 
