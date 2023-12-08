@@ -1,3 +1,9 @@
+diff --git a/.DS_Store b/.DS_Store
+index d3f8a37..c2be35a 100644
+Binary files a/.DS_Store and b/.DS_Store differ
+diff --git a/src/.DS_Store b/src/.DS_Store
+index 1350b11..5e774c6 100644
+Binary files a/src/.DS_Store and b/src/.DS_Store differ
 diff --git a/src/napari_indices/_widget.py b/src/napari_indices/_widget.py
 index 3ef9700..2e9f40a 100644
 --- a/src/napari_indices/_widget.py
