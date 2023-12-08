@@ -26,9 +26,9 @@ requirements:
     - napari
     - numpy
     - python >=3.8
+    - qtpy
     - spectral
     - tifffile
-    - qtpy
 
 test:
   imports:
@@ -41,7 +41,7 @@ test:
     - pyqt
 
 about:
-  home: https://pypi.org/project/napari-indices/
+  home: https://pypi.org/project/napari-indices
   summary: Calculer les indices de végétation
   license: BSD-3-Clause
   license_file: LICENSE
